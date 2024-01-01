@@ -1,2 +1,3 @@
 <h3>😊 Simple Rock Paper Scisser Game 🎮</h3>
-![alt text]([http://url/to/img.png](https://github.com/tobioffice/RockPaperSciser-Game/blob/main/brave_aXPDnvMUSX.png)https://github.com/tobioffice/RockPaperSciser-Game/blob/main/brave_aXPDnvMUSX.png)
+
+![brave_aXPDnvMUSX](https://github.com/tobioffice/RockPaperSciser-Game/assets/126956560/c3fe22a4-dff8-4254-a44f-2addfafc3429)
